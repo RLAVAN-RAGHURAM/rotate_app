@@ -1,0 +1,7 @@
+libsm6
+libice6
+libgl1
+libxext6
+python3-opencv
+gunicorn3
+
